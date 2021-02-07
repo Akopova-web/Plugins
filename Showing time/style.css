@@ -1,0 +1,9 @@
+#show_time_container {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+    top: 50%;
+    background-color: rgb(245, 255, 110);
+    border: 5px solid rgb(245, 147, 0);
+}
